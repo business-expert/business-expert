@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 12 Years development experience in C, C++, VB6, Excel Objects Last 10 years enjoying php, custom MVC , node.js,angular 2, Codeigniter, Laravel and WordPress
+- 👋 Hi, I’m 12 Years development experienced in C, C++, VB6, Excel Objects Last 10 years enjoying php, custom MVC , node.js,angular 2, Codeigniter, Laravel and WordPress
 - 👀 I’m interested in New business and work related to Web System development and Voip Dialer System development
 - 🌱 I’m currently learning VOIP dialer and contact center click to call system
 - 💞️ I’m looking to collaborate on part of development where need of such above system 

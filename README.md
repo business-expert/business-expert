@@ -1,4 +1,4 @@
-Thank you for taking an interest in my profile. I am Pankaj(Panky), and I have been working in Web-app, Mobile-App, PWA, API, Telecom-Products(Cpaas and Predictive Dialer) for 17 years in product development and project management.
+Thank you for taking an interest in my profile. I am Pankaj(Panky) and  have been working in Web-app, Mobile-App, PWA, API, Telecom(Asterisk, ViciDIal, FreeSwitch, Cpaas and Predictive Dialer) for 17 years in product development and project management.
 
 I have been managing sprint planning, dividing tasks between developers, addressing issues/bugs in Github/Gitlab/Bitbucket, and worked project management systems like Jira/Asana/Trello/Monday.com  team and technical documentation  
 
@@ -12,7 +12,7 @@ Web Server: Google cloud server, Amazon web server, Rackspace web server, and di
 Contact center system/IVR/IPBX development using FreeSWITCH/ESL, SIP.js and WebRTC and number ov voip provider including Twilio/ThinQ/Telenyx/Flowroute/Plivo/sinch/Teli/Netnumber/Bandwidth/Campaign-Registry </br></br>
 
 ### I can work in the following full development stack for project management:
-</br> </br>
+</br> 
 ✔️  Node.js, React.js, Vue.js, Webpack, NPM, unt, Bower Development </br>
 ✔️ Alexa Skill Development( Alexa Skill Kit) and Alexa for Businesses </br>
 ✔️  Zapier Automation for Salesforce, Zoho, activecampaign, infusionsoft, Facebook, gmail, Zoom, Stripe Pipedrive, twilio, WordPress,      ZenDesk and FreshDesk, RingCentral  etc  </br>

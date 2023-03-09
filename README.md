@@ -11,7 +11,7 @@ Web Server: Google cloud server, Amazon web server, Rackspace web server, and di
 
 Contact center system/IVR/IPBX development using FreeSWITCH/ESL, SIP.js and WebRTC and number ov voip provider including Twilio/ThinQ/Telenyx/Flowroute/Plivo/sinch/Teli/Netnumber/Bandwidth/Campaign-Registry </br></br>
 
-#I can work in the following full development stack for project management:
+# I can work in the following full development stack for project management:
 </br> </br>
 ✔️  Node.js/React.js/Vue.js/Webpack/NPM/Grunt/Bower Development </br>
 ✔️ Alexa Skill Development( Alexa Skill Kit) and Alexa for Businesses </br>

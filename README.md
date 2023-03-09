@@ -4,18 +4,18 @@ I have been managing sprint planning, dividing tasks between developers, address
 
 I developed many web-based multi-tenant and roles-based admin dashboards for businesses,  mobile applications/API/Back-End, progressive web application ( PWA ), dialer/PBX/Contact-center/Voice-broadcasting systems, and SEO. 
 </br> </br>
-#Domain Worked: </br>
+### Domain Worked: </br>
 CMS, E-commerce, E-learning, headless CMS, Scrapping,  Progressive web App(PWA), Contact-Center Click2call web System,  Voice/SMS/Email Broadcasting Products, and CPAAS. </br>
 Container-based technology: Docker </br>
 Web Server: Google cloud server, Amazon web server, Rackspace web server, and digital ocean droplet. </br>
 
 Contact center system/IVR/IPBX development using FreeSWITCH/ESL, SIP.js and WebRTC and number ov voip provider including Twilio/ThinQ/Telenyx/Flowroute/Plivo/sinch/Teli/Netnumber/Bandwidth/Campaign-Registry </br></br>
 
-# I can work in the following full development stack for project management:
+### I can work in the following full development stack for project management:
 </br> </br>
-✔️  Node.js/React.js/Vue.js/Webpack/NPM/Grunt/Bower Development </br>
+✔️  Node.js, React.js, Vue.js, Webpack, NPM, unt, Bower Development </br>
 ✔️ Alexa Skill Development( Alexa Skill Kit) and Alexa for Businesses </br>
-✔️  Zapier Automation for Salesforce, Zoho, activecampaign, infusionsoft, Facebook, gmail, Zoom, Stripe Pipedrive, twilio, WordPress, ZenDesk and FreshDesk, RingCentral  etc  </br>
+✔️  Zapier Automation for Salesforce, Zoho, activecampaign, infusionsoft, Facebook, gmail, Zoom, Stripe Pipedrive, twilio, WordPress,      ZenDesk and FreshDesk, RingCentral  etc  </br>
 ✔️  Laravel/spatie/Lumen/Spark/Entrust/Socialite/Eloquent-Sluggable/Migration Generator/Voyager/Bagisto/Laravel Meta Manager/admin/membership development  </br>
 ✔️ Headless WordPress and headless cms( netlify, Ghost, and strapi ) with front end Vue.js/React.js  </br>
 ✔️ WordPress Website, membership and store(e-commerce) development and Listify </br>
@@ -42,7 +42,7 @@ Contact center system/IVR/IPBX development using FreeSWITCH/ESL, SIP.js and WebR
 ✔️ CRM implementation for Agents to track Leads, their status and complete clients details </br>
 ✔️Short Message Peer to Peer Protocol (SMPP) setup for bulk SMS System </br> </br>
 
-#My Skill Included: </br> 
+### My Skill Included: </br> 
 ✔️  Language: PHP, Ruby and Asp.net/c#  </br>
 ✔️  Web-Server/Platform: Apache, Nginx, Lighttpd, brick, Heroku, engineYard, GCP(google cloud platform), Node.js, Ubuntu, Centos, Fedora, and Amazon-EC2/S3 and RDS </br>
 ✔️  Markups: XHTML, html4, markdown </br>

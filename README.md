@@ -11,8 +11,8 @@ Web Server: Google cloud server, Amazon web server, Rackspace web server, and di
 Contact center system/IVR/IPBX development using FreeSWITCH/ESL, SIP.js and WebRTC and number ov voip provider including Twilio/ThinQ/Telenyx/Flowroute/Plivo/sinch/Teli/Netnumber/Bandwidth/Campaign-Registry
 
 I can work in the following full development stack for project management:
-
-✔️  Node.js/React.js/Vue.js/Webpack/NPM/Grunt/Bower Development
+</br> </br>
+✔️  Node.js/React.js/Vue.js/Webpack/NPM/Grunt/Bower Development </br>
 ✔️ Alexa Skill Development( Alexa Skill Kit) and Alexa for Businesses 
 ✔️  Zapier Automation for Salesforce, Zoho, activecampaign, infusionsoft, Facebook, gmail, Zoom, Stripe Pipedrive, twilio, WordPress, ZenDesk and FreshDesk, RingCentral  etc  
 ✔️  Laravel/spatie/Lumen/Spark/Entrust/Socialite/Eloquent-Sluggable/Migration Generator/Voyager/Bagisto/Laravel Meta Manager/admin/membership development

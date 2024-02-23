@@ -24,8 +24,8 @@ My skills extend to developing robust admin panels, API/Web services using Larav
 Web Scraping and Data Mining: I possess adeptness in developing scripts for data scraping, comparison engines, data quality testing, product data mining, and optimizing proxy servers for efficient operations.
 
 ###  A Glimpse Into My Skill Set:
-Languages:</br>  
-PHP, Ruby, Asp.net/c#</br> 
+</br> Languages:</br>  
+PHP,Python, R, Ruby, Asp.net/c#</br> 
 Web Servers/Platforms: </br> 
 Apache, Nginx, Heroku, GCP, Node.js, AWS, Ubuntu, Centos, Fedora</br> 
 Markups: </br> 

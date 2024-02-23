@@ -1,4 +1,4 @@
-Creating Innovative Solutions with a Proven Track Record With a robust history of 81 successful contracts and a consistent stream of 5-star ratings, I bring a versatile and impressive skill set to the forefront. My proficiency spans a wide spectrum of solution development across diverse domains.
+Creating Innovative Solutions with a Proven Track Record With a robust history of 81 successful contracts and a consistent stream of 5-star ratings over UPWORK, I bring a versatile and impressive skill set to the forefront. My proficiency spans a wide spectrum of solution development across diverse domains.
 
 I have a strong record of creating exceptional Web and Mobile Apps, APIs, Progressive Web Apps (PWAs), Ecommerce platforms, and Product Information Management (PIM) systems. My expertise extends to intricate setups such as Multivendor Ecommerce platforms, Order Management Systems (OMS), and Contact Centers.
 
@@ -24,7 +24,7 @@ My skills extend to developing robust admin panels, API/Web services using Larav
 Web Scraping and Data Mining: I possess adeptness in developing scripts for data scraping, comparison engines, data quality testing, product data mining, and optimizing proxy servers for efficient operations.
 
 ###  A Glimpse Into My Skill Set:
-</br> Languages:</br>  
+Languages:</br>  
 PHP,Python, R, Ruby, Asp.net/c#</br> 
 Web Servers/Platforms: </br> 
 Apache, Nginx, Heroku, GCP, Node.js, AWS, Ubuntu, Centos, Fedora</br> 

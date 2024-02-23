@@ -24,10 +24,15 @@ My skills extend to developing robust admin panels, API/Web services using Larav
 Web Scraping and Data Mining: I possess adeptness in developing scripts for data scraping, comparison engines, data quality testing, product data mining, and optimizing proxy servers for efficient operations.
 
 ###  A Glimpse Into My Skill Set:
-Languages: PHP, Ruby, Asp.net/c#
-Web Servers/Platforms: Apache, Nginx, Heroku, GCP, Node.js, AWS, Ubuntu, Centos, Fedora
-Markups: XHTML, HTML4, Markdown Client-Side: JS, HTML5, CSS3, Bootstrap, Twitter Bootstrap Frameworks: Ruby-on-Rails, Codeigniter, CakePhp, Yii, Symfony, Laravel, MEAN, MERN
-Libraries: Vue.js, React.js, jQuery, TypeScript
-Telephony: VOIP Auto Dialer, Predictive Dialer, Robo Dialer, IPPBX, Fax Broadcast, Voicemail, SMS broadcasting with various platforms including Twilio, Freeswitch, Asterisk, ViciDial
+##Languages: 
+PHP, Ruby, Asp.net/c#
+##Web Servers/Platforms: 
+Apache, Nginx, Heroku, GCP, Node.js, AWS, Ubuntu, Centos, Fedora
+##Markups: 
+XHTML, HTML4, Markdown Client-Side: JS, HTML5, CSS3, Bootstrap, Twitter Bootstrap Frameworks: Ruby-on-Rails, Codeigniter, CakePhp, Yii, Symfony, Laravel, MEAN, MERN
+##Libraries:
+Vue.js, React.js, jQuery, TypeScript
+##Telephony: 
+VOIP Auto Dialer, Predictive Dialer, Robo Dialer, IPPBX, Fax Broadcast, Voicemail, SMS broadcasting with various platforms including Twilio, Freeswitch, Asterisk, ViciDial
 
 ######  Feel free to inquire about any specific area of interest, and I'm here to provide further insights into how my adaptable expertise can elevate your projects to new heights.

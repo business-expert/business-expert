@@ -3,7 +3,7 @@ _Mobile: 9250133466 Landline: 011-49957415 | Email: pankaj.weby@gmail.com | Loca
 
 ####  Professional Summary                                                                   
 
-Over a course of 18 years, I've amassed extensive expertise in mobile and web app development, E-Commerce, VOIP CPAAS, website creation, CMS, PWA, API integration, cloud deployment, repository and document management, and the creation of backend dashboards. In the past 9 years, I've successfully embraced the role of a Project Manager. I am well-versed in overseeing JIRA/plugins administration, AzureADO DevOps, ASANA, Clickups, ZOHO Project and Sprint, along with leveraging tools like Monday.com for the management of project kanban boards, epics, user stories, and workflow coordination.
+######## Over a course of 18 years, I've amassed extensive expertise in mobile and web app development, E-Commerce, ######## VOIP CPAAS, website creation, CMS, PWA, API integration, cloud deployment, repository and document ######## management, and the creation of backend dashboards. In the past 9 years, I've successfully embraced the role of a ######## Project Manager. I am well-versed in overseeing JIRA/plugins administration, AzureADO DevOps, ASANA, ######## Clickups, ZOHO Project and Sprint, along with leveraging tools like Monday.com for the management of ######## project kanban boards, epics, user stories, and workflow coordination.
 
 My Accomplishments Include:
 ######  Facilitating Requirements Elicitation:
@@ -177,9 +177,9 @@ Notable projects under my management include Xlocal.co.uk, a website builder sys
 I've gained experience in the software testing domain, where I oversaw the testing of VB, .NET, and J2EE technology stacks. My expertise includes various facets of testing, such as designing manual test cases, conducting web testing, performing database testing, executing black box testing, and managing regression testing.
 Furthermore, I possess proficiency in UI testing, functional testing, utilizing USE cases, and working with UML diagrams to ensure comprehensive and effective software testing.
 
-# Kribhco Ltd.
-# Project Trainee
-# March 2003 to September 2003
+#### Kribhco Ltd.
+#### Project Trainee
+#### March 2003 to September 2003
 
 Project Name: Thrift & Credit Accounting System
 SOFTWARE: Visual Basic 6.0 with MS- Access on Window 98, Reporting on Excel

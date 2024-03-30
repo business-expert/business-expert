@@ -3,9 +3,9 @@ _Mobile: 9250133466 Landline: 011-49957415 | Email: pankaj.weby@gmail.com | Loca
 
 ####  Professional Summary                                                                   
 
-######## Over a course of 18 years, I've amassed extensive expertise in mobile and web app development, E-Commerce, ######## VOIP CPAAS, website creation, CMS, PWA, API integration, cloud deployment, repository and document ######## management, and the creation of backend dashboards. In the past 9 years, I've successfully embraced the role of a ######## Project Manager. I am well-versed in overseeing JIRA/plugins administration, AzureADO DevOps, ASANA, ######## Clickups, ZOHO Project and Sprint, along with leveraging tools like Monday.com for the management of ######## project kanban boards, epics, user stories, and workflow coordination.
+ Over a course of 18 years, I've amassed extensive expertise in mobile and web app development, E-Commerce,  VOIP CPAAS, website creation, CMS, PWA, API integration, cloud deployment, repository and document   management, and the creation of backend dashboards. In the past 9 years, I've successfully embraced the role of a # Project Manager. I am well-versed in overseeing JIRA/plugins administration, AzureADO DevOps, ASANA,   Clickups, ZOHO Project and Sprint, along with leveraging tools like Monday.com for the management of   project kanban boards, epics, user stories, and workflow coordination.
 
-My Accomplishments Include:
+#### My Accomplishments Include:
 ######  Facilitating Requirements Elicitation:
 I've effectively orchestrated requirements elicitation meetings with stakeholders to gather both functional and non-functional project requirements.
 ###### Wide Domain Expertise: 
@@ -28,7 +28,7 @@ My forte includes designing scalable solutions that align with application needs
 I've successfully managed and mentored Scrum and project teams, fostering growth and capability building.
 *In summary, my rich background is underpinned by a strong commitment to project excellence, client satisfaction, and continuous improvement.*
 
-###### Academic and Professional Achievements:
+#### Academic and Professional Achievements:
 1. Completed Master of Computer Application (MCA) from IGNOU.
 2. Attained an MBA in System and Marketing from SMU.
 3. Earned an MSc in Mathematics from DSB Campus Nainital.
@@ -39,7 +39,8 @@ I've successfully managed and mentored Scrum and project teams, fostering growth
 8. Udemy Course for TensorFlow/Python
 9. Project Management For Management from NPTel
 10. Digital Forensics From Swayam
-Professional Experience:
+
+#### Professional Experience:
 
 #### Gventure Technology
 #### Project Manager

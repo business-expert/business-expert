@@ -42,9 +42,7 @@ I've successfully managed and mentored Scrum and project teams, fostering growth
 
 #### Professional Experience:
 
-###### Gventure Technology
-###### Project Manager
-###### August 2023 To Today3
+###### Gventure Technology Project Manager   August 2023 To Today
 
 I have been managing following projects
 ###### Authentication, Users, and Balance Management Server:
@@ -71,16 +69,12 @@ Implement a system for sending bulk SMS messages to mobile phones.Include featur
 These features collectively aim to provide a comprehensive cloud infrastructure for various communication and business needs.
 
 
-#### Phonon Communication
-#### Project Manager
-#### December 2022 To February 2023
+#### Phonon Communication Project Manager December 2022 To February 2023
 I'm developing a comprehensive telecommunications software suite tailored for the Indian market. This suite will include features like Robo Outbound Dialer, IVR systems, Voice Bots, Chatbots, and SMS notification systems. Our main focus is on serving major clients in the airlines and BFSI (Banking, Financial Services, and Insurance) sectors. To ensure top-notch performance, we've expanded our infrastructure to manage up to a million simultaneous calls. Moreover, our solution supports various communication channels and seamlessly integrates with popular CRM platforms such as Salesforce, ZOHO, and Talisma, providing clients with a unified and efficient communication experience.
 Project: Central.phonon.io( UCAAS Solution For banking and airline Indian Market) 
 Technology, Angular Dashboard, SpringBoot( API and AGI), Mysql, Python , metabase for Reports  
 
-#### Techouts Solution Pvt Ltd
-#### Project Manager
-#### November 2021 To September 2022
+#### Techouts Solution Pvt Ltd Project Manager November 2021 To September 2022
 I've been actively engaged in diverse facets of our projects, employing a wide array of tools and methodologies to ensure their successful execution:
 ###### Project Documentation and Planning:
  I've contributed significantly to the creation of pivotal project documents like the Project Charter, Project Planning, and RACI (Responsible, Accountable, Consulted, Informed) documents. These documents play a crucial role in maintaining project clarity and steering its success.
@@ -107,9 +101,7 @@ An instrumental contribution has been made in the development of the ShoppersSto
 Our comprehensive technology toolkit spans AzureADO, Azure DevOps, Magento2, GraphQL, Unicommerce (OMS), Navision, SAP (PIM functionality), Kubernetes, React Native, and MySQL.
 _Overall, my engagement is all-encompassing, spanning from deft project management and astute technical decision-making to effective stakeholder engagement. This multi-faceted approach, combined with the strategic utilization of an assorted array of tools and platforms, underpins the achievement of successful outcomes across these innovative projects._
 
-#### Gventure Technology Pvt Ltd
-#### Project Manager
-#### September 2019 To October 2021
+#### Gventure Technology Pvt Ltd Project Manager September 2019 To October 2021
 I have actively engaged in a multitude of tasks and responsibilities within the realm of project management and technical development. These encompassed creating project charters, proposals, statements of work, agreements, project plans, work breakdown structures (WBS), sprint planning, task allocation among developers, and addressing issues and bugs using platforms like Github, Gitlab, and Bitbucket. Furthermore, I adeptly utilized project management tools such as Redmine, Asana, Trello, and Monday, alongside comprehensive technical documentation practices.
 My expertise extends to crafting diverse digital solutions, including web-based multi-tenant admin dashboards, mobile applications and APIs, progressive web applications (PWAs), contact-center systems, and search engine optimization (SEO) enhancements. Notably, I have delved into the domains of Insurance marketing and lead management solutions, CPAAS (Communications Platform as a Service), broadcasting systems encompassing SMS, FAX, Voicemail, and RingLess Voicemail Drop, underwriter systems, predictive dialers tailored for insurance purposes, appointment booking systems, and comprehensive Lead management and CRM systems.
 Two specific projects highlight my proficiency:
@@ -120,23 +112,20 @@ I led the development of a contact center and CRM solution tailored for the real
 Additional achievements include developing a comprehensive Cpaas system for multiple white-label clients, managing custom billing solutions centered on the VOX server using Laravel, overseeing a Multi-Tenant PBX solution, and constructing web directory systems and PWAs like "Hotprospect.us" and "GYST," each catering to distinct business needs.
 The technologies and platforms I've skillfully operated on span Monday.com, Google Cloud Platform, GCP DevOps, Rest API, Codeigniter, PHP, Angular.js, Node.js, Twilio Sinch, Telnyx, RingCentral, ReactNative, MySQL, Azure DevOps, GraphQL, Kubernetes, MongoDB, and more. This broad technological proficiency has empowered me to execute these projects with precision and innovation.
 
-#### WaterOPS
-#### Freelance Project Manager
-#### May 2018 to August 2019
+#### WaterOPS Freelance Project Manager May 2018 to August 2019
 
 This innovative cloud-based service revolutionizes water sampling operations and monitoring management for a staggering count of 150,000 operators responsible for safeguarding the nation's water supply. Founded under the acronym O-P-S, the venture is driven by a commitment to furnish comprehensive, turn-key, cloud-based solutions tailored for environmental monitoring management. These solutions prove indispensable for regulatory agencies tasked with scrutinizing samples to meet stringent mandates. These agencies frequently grapple with resource limitations, impeding their ability to navigate the intricate compliance landscape shaped by both EPA regulations and state policies. The outcome of these challenges has translated into thousands of violations annually, amounting to substantial financial penalties totaling $112 million.
 The core objective of this project is to provide robust solutions that underpin the management of public infrastructure systems encompassing water, waste, air, and land quality. By doing so, the national safety paradigm is elevated to a new standard. For comprehensive details, please visit the official website: o-p-s.net.
 Throughout the project's lifecycle, an agile Scrum methodology was meticulously adhered to, facilitating the phased implementation of initiatives through distinct sprints. The management of these endeavors was efficiently coordinated through platforms such as Basecamp, Trello, and GitHub. The technological landscape driving WaterOPS is characterized by Vue.js and Node.js, which together deliver dynamic user experiences. The foundation of the system relies on Rest API for seamless connectivity, and PostgreSQL for robust data management. Hosting is managed on the Cloud Server through Azure DevOps, optimizing operational efficiency. The overall development process is supported by DevOps practices, ensuring smooth integration and deployment. Git is the version control system of choice, enabling efficient collaboration. Project components are organized into Sprints, Epics, and Tasks for structured progress tracking. The orchestration of containerized applications is streamlined using Kubernetes, enhancing scalability and manageability.
 In essence, WaterOPS stands as a pioneering solution poised to reshape water quality management nationwide. Its technological prowess and strategic implementation embody a concerted effort to address critical regulatory challenges, elevate national safety, and foster a sustainable water supply for generations to come.
 
-#### Leadingdots Solutions Pvt Ltd 
-#### Project Manager   
-#### September 2015  to May 2018
+#### Leadingdots Solutions Pvt Ltd Project Manager September 2015  to May 2018
 
 I have engaged in a wide array of responsibilities encompassing project initiation, such as drafting project charters, proposals, statements of work (SOW), agreements, project plans, and work breakdown structures (WBS). Additionally, I have been involved in sprint planning, task delegation among developers, as well as addressing issues and bugs through platforms like Github, Gitlab, and Bitbucket. Alongside this, I've gained experience with project management tools including Asana, Trello, and team collaboration, while also contributing to comprehensive technical documentation efforts.
 My project management involvement extends to various technological domains including Laravel, Codeigniter, Node.js, Vue.js, React.js, Ionic, React Native, and WordPress. I have successfully overseen the development of web-based applications and hybrid applications, showcasing a diverse skill set.
 Here are some projects I've managed:
-###### ISL (https://islmanagementservice.com/login, Company: https://islllc.com/):
+###### ISL 
+(https://islmanagementservice.com/login, Company: https://islllc.com/):
  This project revolves around a cloud-based system that aids companies in managing their houses, consumers, and staff. Using technologies like Laravel for backend and ReactNative for the mobile app, the solution ensures seamless access and data entry for staff. The app allows for quick logins, streamlined house selection, and consumer information tracking. Additionally, there's a super admin component for company management.
 ###### Gochurchitup.com:
 This initiative focuses on a ReactNative mobile app that connects to a server to fetch church event information. Events are categorized and churches can input their details via a website. Super admin sets event costs and radius criteria for notifications. The app's functionalities are structured around user location and preferences.
@@ -148,9 +137,7 @@ This native mobile app utilizes a Laravel-based backend and API. Similarly, the 
 I've also contributed to various other ventures, including numnu.com, bustiket.com, bellinity.com, inviopresenze.it, business-expert.github.io/smart-docs-testing (a Jekyll-based Wiki), western-printer.co.uk (a WordPress-based project), casebuildr.com and find-an-attorney.casebuildr.com (directory listings of lawyers).
 My experiences span a diverse range of technologies, platforms, and project scopes, showcasing my proficiency in managing multifaceted projects across different domains.
 
-#### Arxmind Consulting Service Pvt. Ltd
-#### Project Manager
-#### May 2012 to Till August 2015
+#### Arxmind Consulting Service Pvt. Ltd Project Manager May 2012 to Till August 2015
 Engaged in a spectrum of project responsibilities encompassing budget management, risk assessment, dependency tracking, change control, and overseeing end-to-end project execution. My involvement extended to creating project charters, proposal documents, statements of work (SOW), non-disclosure agreements (NDAs), project plans, work breakdown structures (WBS), sprint plans, and task allocation among development teams.
 I've effectively led teams and directed projects in diverse technologies including PHP, Ruby on Rails, ASP.NET MVC, SharePoint, and Classic ASP. Some notable projects under my management include:
 ###### Aiclub.com.hk:
@@ -170,43 +157,28 @@ Directed the creation of a comprehensive CRM system tailored to insurance compan
 Managed the conception and execution of a sophisticated mail management system, enabling the delivery of physical mail to users' residences, with complete backend administration and user dashboard management.
 Throughout these projects, my responsibilities encompassed multifaceted aspects of project management, technological oversight, and team coordination, resulting in successful outcomes across a range of industries and technological domains.
 
-#### Ongraph Technologies Pvt. Ltd.
-#### Business developer Lead
-#### April 2010 to April 2012
+#### Ongraph Technologies Pvt. Ltd. Business developer Lead April 2010 to April 2012
 I have spearheaded various technical initiatives encompassing Android and iPhone app development, PHP-based solutions, .NET-based projects, and Ruby on Rails-based development.
 Furthermore, I've played a pivotal role in amplifying the company's new business ventures by an impressive 400%. This achievement involved meticulous work on project proposal documentation, iteration planning, direct client communication, and effective project management.
 
-#### Wildnet Technologies Pvt. Ltd
-#### Sr. BDE
-#### Oct 2009 to Mar 2010
-
+#### Wildnet Technologies Pvt. Ltd Sr. BDE Oct 2009 to Mar 2010
 Established a novel avenue for business growth via freelancer portals (Elance/Upwork), effectively managing projects encompassing PHP development, search engine optimization, social media marketing, and Pay-Per-Click (PPC) campaigns.
 
-#### ONS Interactive Solutions Pvt Ltd
-#### BDE
-#### Jun 2009 to Oct 2009
-
+#### ONS Interactive Solutions Pvt Ltd BDE Jun 2009 to Oct 2009
 Pioneered a novel avenue for business expansion through Odesk and successfully managed four projects with a cumulative project cost of $5,000. These projects encompassed search engine optimization and PHP development domains.
 
-#### Swastik InfoTech
-#### Nov 2007 to May 2009
-#### BDM
-
+#### Swastik InfoTech Nov 2007 to May 2009 BDM
 I successfully carried out the entire sales cycle, managing business development for website development in PHP, ASP.NET technology stacks, and the SEO domain within the international market.
 My role encompassed analyzing SEO requirements, implementing effective strategies, executing search engine optimization techniques, optimizing web pages, and managing off-page optimization efforts.
 I handled diverse tasks including website requirement analysis, documentation, and the design of wireframes using tools like Excel sheets and Visio. Additionally, I managed projects from initiation to completion, ensuring seamless execution and effective milestone management.
 Notable projects under my management include Xlocal.co.uk, a website builder system, and noidaview, a search engine for Noida with integrated business listings.
 
-#### Regal Pvt. Lid.
-#### Software engineer
-#### November 2006 to July 2007
+#### Regal Pvt. Lid. Software engineer November 2006 to July 2007
 
 I've gained experience in the software testing domain, where I oversaw the testing of VB, .NET, and J2EE technology stacks. My expertise includes various facets of testing, such as designing manual test cases, conducting web testing, performing database testing, executing black box testing, and managing regression testing.
 Furthermore, I possess proficiency in UI testing, functional testing, utilizing USE cases, and working with UML diagrams to ensure comprehensive and effective software testing.
 
-#### Kribhco Ltd.
-#### Project Trainee
-#### March 2003 to September 2003
+#### Kribhco Ltd. Project Trainee March 2003 to September 2003
 
 Project Name: Thrift & Credit Accounting System
 SOFTWARE: Visual Basic 6.0 with MS- Access on Window 98, Reporting on Excel

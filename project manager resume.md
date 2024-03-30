@@ -1,4 +1,4 @@
-##                                  <p style="text-align: center;">PANKAJ KUMAR JOSHI</p> 
+##                    PANKAJ KUMAR JOSHI
 
 
 ####  Professional Summary                                                                   
@@ -37,36 +37,36 @@ I've successfully managed and mentored Scrum and project teams, fostering growth
 6. Recognized as a Google Certified Data Analyst.
 7. Completed Udemy courses in R language and Machine Learning
 8. Udemy Course for TensorFlow/Python
-9. Project Management For Management from NPTel
+9. Project Management For Managers from NPTel
 10. Digital Forensics From Swayam
 
 #### Professional Experience:
 
-#### Gventure Technology
-#### Project Manager
-#### August 2023 To Today3
+###### Gventure Technology
+###### Project Manager
+###### August 2023 To Today3
 
 I have been managing following projects
 #### Authentication, Users, and Balance Management Server:
 Implement secure authentication methods for users accessing the system.
 Develop a server component to manage user accounts, permissions, and balance information.
-#### Fax Broadcasting:
+###### Fax Broadcasting:
 Create a system to send faxes to multiple recipients simultaneously.Include features such as scheduling, reporting, and status tracking.
-#### Email Broadcasting:
+###### Email Broadcasting:
 Develop a system for sending bulk emails to targeted lists of recipients.Include features for managing email templates, tracking opens and clicks, and managing subscription lists.
-#### E-commerce Development:
+###### E-commerce Development:
 Build an e-commerce platform for selling products or services online.Include features such as product catalog, shopping cart, checkout, and payment processing.
-#### CMS Development:
+##₹### CMS Development:
 Create a content management system (CMS) for managing website content.Include features for creating, editing, and publishing content, as well as managing user roles and permissions.
-#### Dialer System Development:
+###### Dialer System Development:
 Develop an automated dialing system for making outbound calls.Include features for call routing, call recording, and performance tracking.
-#### Agent Management System:
+###### Agent Management System:
 Build a system for managing agents who handle customer interactions.Include features for assigning tasks, monitoring performance, and providing training.
-#### IVR Management System:
+###### IVR Management System:
 Create an interactive voice response (IVR) system for handling incoming calls.Include features for call routing, automated responses, and integration with other systems.
-#### Social Broadcasting System:
+###### Social Broadcasting System:
 Develop a system for broadcasting messages on social media platforms. Include features for managing social media accounts, scheduling posts, and analyzing engagement.
-#### SMS Broadcasting System:
+###### SMS Broadcasting System:
 Implement a system for sending bulk SMS messages to mobile phones.Include features for managing contact lists, scheduling messages, and tracking delivery status.
 These features collectively aim to provide a comprehensive cloud infrastructure for various communication and business needs.
 
@@ -82,9 +82,11 @@ Technology, Angular Dashboard, SpringBoot( API and AGI), Mysql, Python , metabas
 #### Project Manager
 #### November 2021 To September 2022
 I've been actively engaged in diverse facets of our projects, employing a wide array of tools and methodologies to ensure their successful execution:
-Project Documentation and Planning: I've contributed significantly to the creation of pivotal project documents like the Project Charter, Project Planning, and RACI (Responsible, Accountable, Consulted, Informed) documents. These documents play a crucial role in maintaining project clarity and steering its success.
-Agile Methodology: The Agile Scrum methodology has been our chosen approach, facilitating efficient project management. This includes practices like Sprint Planning, Story Points estimation, Daily Stand-ups, and Retrospective Meetings, which foster an iterative and adaptable workflow.
-Stakeholder Management: My involvement in stakeholder management has been proactive, ensuring seamless communication and addressing stakeholder needs throughout the entire project lifecycle.
+###### Project Documentation and Planning:
+ I've contributed significantly to the creation of pivotal project documents like the Project Charter, Project Planning, and RACI (Responsible, Accountable, Consulted, Informed) documents. These documents play a crucial role in maintaining project clarity and steering its success.
+###### Agile Methodology:
+ The Agile Scrum methodology has been our chosen approach, facilitating efficient project management. This includes practices like Sprint Planning, Story Points estimation, Daily Stand-ups, and Retrospective Meetings, which foster an iterative and adaptable workflow.
+###### Stakeholder Management: My involvement in stakeholder management has been proactive, ensuring seamless communication and addressing stakeholder needs throughout the entire project lifecycle.
 Jira and Azure DevOps (ADO): Our project management has been streamlined through effective utilization of Jira for task and issue tracking, complemented by Azure DevOps for cohesive project oversight. This involves structured organization of tasks, epics, and sprints, fostering enhanced collaboration and delivery.
 Technology Stack: Our projects have embraced a versatile technology stack. For instance, in Project Halidram's Web Back-End GraphQL API and Mobile App Development, we harnessed technologies like Magento2, GraphQL, React Native, RazorPay, and custom extensions. Additionally, seamless integration of Unicommerce (OMS), Navision, and SAP systems ensures a harmonious user experience.
 Cross-Platform Solutions: A pivotal focus has been on developing cross-platform solutions, catering to various devices such as iPhones, Android devices, and browsers. This strategic approach guarantees a consistent and seamless user experience across different platforms.

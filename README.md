@@ -7,23 +7,23 @@ Furthermore, my background in telecommunications shines through in the developme
 
 My Diverse Expertise Spans Across Various Domains:
 
-### CPAAS/UCAAS/IVR'S/FAX-Broadcasting/Voice-Broadcasting/SMS-Retail/Click-to-Call Systems and Integrated CRM Solution:
+#### CPAAS/UCAAS/IVR'S/FAX-Broadcasting/Voice-Broadcasting/SMS-Retail/Click-to-Call Systems and Integrated CRM Solution:
 My accomplishments in this arena encompass a broad spectrum of functionalities, including DID purchasing, CDR visualization, Call Recording, Contact Import, IVR, Fax and Voice Broadcasting, SMS Broadcasting, IP PBX, SoftSwitch systems, Contact and Call Center development, and Auto/Predictive/Robo Dialers for diverse industries. I also excel in CRM development for lead tracking and seamless WebRTC integration.
 
-###  SMS Solutions: 
+####  SMS Solutions: 
 From comprehensive SMS Broadcasting to multi-vendor systems, SMS OTP, Offer/Promotion flows, SMS payment solutions, and seamless WhatsApp integrations, I bring innovative solutions to the table.
 
-###  Magento Development:
+######  Magento Development:
 My e-commerce expertise revolves around Magento-based solutions, including Multi-Vendor, Subscription-based, and Commission-based systems. I also specialize in crafting Progressive Web Apps (PWAs) and integrating them seamlessly with Order Management Systems (OMS).
 
-### PWA Development:
+###### PWA Development:
 Proficient in developing state-of-the-art Progressive Web Apps, I boast expertise in service workers, caching, AMP pages, manifest setup, and embedding into both Android and IOS platforms. I'm well-versed in platforms such as GoodBarber and pwabuilder.com.
 
-###  Laravel Development:
+######  Laravel Development:
 My skills extend to developing robust admin panels, API/Web services using Laravel/Lumen, crafting enterprise apps, and creating e-learning platforms that push boundaries.
 Web Scraping and Data Mining: I possess adeptness in developing scripts for data scraping, comparison engines, data quality testing, product data mining, and optimizing proxy servers for efficient operations.
 
-###  A Glimpse Into My Skill Set:
+######  A Glimpse Into My Skill Set:
 Languages:</br>  
 PHP,Python, R, Ruby, Asp.net/c#</br> 
 Web Servers/Platforms: </br> 

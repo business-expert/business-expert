@@ -47,7 +47,7 @@ I've successfully managed and mentored Scrum and project teams, fostering growth
 ###### August 2023 To Today3
 
 I have been managing following projects
-#### Authentication, Users, and Balance Management Server:
+###### Authentication, Users, and Balance Management Server:
 Implement secure authentication methods for users accessing the system.
 Develop a server component to manage user accounts, permissions, and balance information.
 ###### Fax Broadcasting:
@@ -86,16 +86,23 @@ I've been actively engaged in diverse facets of our projects, employing a wide a
  I've contributed significantly to the creation of pivotal project documents like the Project Charter, Project Planning, and RACI (Responsible, Accountable, Consulted, Informed) documents. These documents play a crucial role in maintaining project clarity and steering its success.
 ###### Agile Methodology:
  The Agile Scrum methodology has been our chosen approach, facilitating efficient project management. This includes practices like Sprint Planning, Story Points estimation, Daily Stand-ups, and Retrospective Meetings, which foster an iterative and adaptable workflow.
-###### Stakeholder Management: My involvement in stakeholder management has been proactive, ensuring seamless communication and addressing stakeholder needs throughout the entire project lifecycle.
-Jira and Azure DevOps (ADO): Our project management has been streamlined through effective utilization of Jira for task and issue tracking, complemented by Azure DevOps for cohesive project oversight. This involves structured organization of tasks, epics, and sprints, fostering enhanced collaboration and delivery.
-Technology Stack: Our projects have embraced a versatile technology stack. For instance, in Project Halidram's Web Back-End GraphQL API and Mobile App Development, we harnessed technologies like Magento2, GraphQL, React Native, RazorPay, and custom extensions. Additionally, seamless integration of Unicommerce (OMS), Navision, and SAP systems ensures a harmonious user experience.
-Cross-Platform Solutions: A pivotal focus has been on developing cross-platform solutions, catering to various devices such as iPhones, Android devices, and browsers. This strategic approach guarantees a consistent and seamless user experience across different platforms.
-Digital Transformation at Haldirams: At Haldirams, our mission revolves around a sweeping digital transformation, entailing the infusion of cutting-edge technology into the quick service restaurant (QSR) sector. This comprehensive initiative encompasses digitization of both front and back office operations, elevating customer experiences, and unlocking e-commerce capabilities.
+###### Stakeholder Management:
+My involvement in stakeholder management has been proactive, ensuring seamless communication and addressing stakeholder needs throughout the entire project lifecycle.
+###### Jira and Azure DevOps (ADO): 
+Our project management has been streamlined through effective utilization of Jira for task and issue tracking, complemented by Azure DevOps for cohesive project oversight. This involves structured organization of tasks, epics, and sprints, fostering enhanced collaboration and delivery.
+###### Technology Stack:
+Our projects have embraced a versatile technology stack. For instance, in Project Halidram's Web Back-End GraphQL API and Mobile App Development, we harnessed technologies like Magento2, GraphQL, React Native, RazorPay, and custom extensions. Additionally, seamless integration of Unicommerce (OMS), Navision, and SAP systems ensures a harmonious user experience.
+###### Cross-Platform Solutions: 
+A pivotal focus has been on developing cross-platform solutions, catering to various devices such as iPhones, Android devices, and browsers. This strategic approach guarantees a consistent and seamless user experience across different platforms.
+###### Digital Transformation at Haldirams:
+At Haldirams, our mission revolves around a sweeping digital transformation, entailing the infusion of cutting-edge technology into the quick service restaurant (QSR) sector. This comprehensive initiative encompasses digitization of both front and back office operations, elevating customer experiences, and unlocking e-commerce capabilities.
 Hyper-Local E-Commerce: A paramount endeavor involves crafting a hyper-local e-commerce journey tailored exclusively for the NCR region within Haldiram's web and mobile realms. This intricate endeavor involves seamless integration with existing systems such as SAP, Navision, and Unicommerce, ultimately bolstering operational efficiency.
-Architecture and Technology Selection: My role extends to pivotal phases like the discovery process, architecture deliberations, technology component selection, and adept management of dependencies and potential risks.
+###### Architecture and Technology Selection:
+My role extends to pivotal phases like the discovery process, architecture deliberations, technology component selection, and adept management of dependencies and potential risks.
 Project ShoppersStop: An instrumental contribution has been made in the development of the ShoppersStop project. This initiative encompasses the creation of a headless ECommerce experience alongside mobile application development, coupled with the seamless integration of OMS through the utilization of Flute Commerce.
-Platform Expertise: Our comprehensive technology toolkit spans AzureADO, Azure DevOps, Magento2, GraphQL, Unicommerce (OMS), Navision, SAP (PIM functionality), Kubernetes, React Native, and MySQL.
-Overall, my engagement is all-encompassing, spanning from deft project management and astute technical decision-making to effective stakeholder engagement. This multi-faceted approach, combined with the strategic utilization of an assorted array of tools and platforms, underpins the achievement of successful outcomes across these innovative projects.
+###### Platform Expertise: 
+Our comprehensive technology toolkit spans AzureADO, Azure DevOps, Magento2, GraphQL, Unicommerce (OMS), Navision, SAP (PIM functionality), Kubernetes, React Native, and MySQL.
+_Overall, my engagement is all-encompassing, spanning from deft project management and astute technical decision-making to effective stakeholder engagement. This multi-faceted approach, combined with the strategic utilization of an assorted array of tools and platforms, underpins the achievement of successful outcomes across these innovative projects._
 
 #### Gventure Technology Pvt Ltd
 #### Project Manager

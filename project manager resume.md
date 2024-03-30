@@ -5,8 +5,8 @@
 
  Over a course of 18 years, I've amassed extensive expertise in mobile and web app development, E-Commerce,  VOIP CPAAS, website creation, CMS, PWA, API integration, cloud deployment, repository and document   management, and the creation of backend dashboards. In the past 9 years, I've successfully embraced the role of a # Project Manager. I am well-versed in overseeing JIRA/plugins administration, AzureADO DevOps, ASANA,   Clickups, ZOHO Project and Sprint, along with leveraging tools like Monday.com for the management of   project kanban boards, epics, user stories, and workflow coordination.
 
-#### My Accomplishments Include:
-######  Facilitating Requirements Elicitation:
+####        My Accomplishments Include:
+###### Facilitating Requirements Elicitation:
 I've effectively orchestrated requirements elicitation meetings with stakeholders to gather both functional and non-functional project requirements.
 ###### Wide Domain Expertise: 
 My expertise spans various domains including web applications, mobile apps, E-Commerce, CMS, API (REST/GraphQL), contact centers, Click2call, IVR, IP PBX, predictive dialer, CPAAS/UCAAS, workflow, headless architecture, and PWA technology enhancements.
@@ -42,7 +42,7 @@ I've successfully managed and mentored Scrum and project teams, fostering growth
 
 #### Professional Experience:
 
-###### Gventure Technology Project Manager August 2023 To Today
+#### Gventure Technology Project Manager August 2023 To Today
 I have been managing following projects
 ###### Authentication, Users, and Balance Management Server:
 Implement secure authentication methods for users accessing the system.

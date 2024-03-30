@@ -42,8 +42,7 @@ I've successfully managed and mentored Scrum and project teams, fostering growth
 
 #### Professional Experience:
 
-###### Gventure Technology Project Manager   August 2023 To Today
-
+###### Gventure Technology Project Manager August 2023 To Today
 I have been managing following projects
 ###### Authentication, Users, and Balance Management Server:
 Implement secure authentication methods for users accessing the system.

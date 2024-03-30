@@ -1,5 +1,5 @@
 ##                                  <p style="text-align: center;">PANKAJ KUMAR JOSHI</p> 
-* Mobile: 9250133466 Landline: 011-49957415 | Email: pankaj.weby@gmail.com | Location: Delhi*
+_Mobile: 9250133466 Landline: 011-49957415 | Email: pankaj.weby@gmail.com | Location: Delhi_
 
 ####  Professional Summary                                                                   
 

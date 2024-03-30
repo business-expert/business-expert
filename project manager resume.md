@@ -6,29 +6,29 @@ _Mobile: 9250133466 Landline: 011-49957415 | Email: pankaj.weby@gmail.com | Loca
 Over a course of 18 years, I've amassed extensive expertise in mobile and web app development, E-Commerce, VOIP CPAAS, website creation, CMS, PWA, API integration, cloud deployment, repository and document management, and the creation of backend dashboards. In the past 9 years, I've successfully embraced the role of a Project Manager. I am well-versed in overseeing JIRA/plugins administration, AzureADO DevOps, ASANA, Clickups, ZOHO Project and Sprint, along with leveraging tools like Monday.com for the management of project kanban boards, epics, user stories, and workflow coordination.
 
 My Accomplishments Include:
-####  Facilitating Requirements Elicitation:
+######  Facilitating Requirements Elicitation:
 I've effectively orchestrated requirements elicitation meetings with stakeholders to gather both functional and non-functional project requirements.
-#### Wide Domain Expertise: 
+###### Wide Domain Expertise: 
 My expertise spans various domains including web applications, mobile apps, E-Commerce, CMS, API (REST/GraphQL), contact centers, Click2call, IVR, IP PBX, predictive dialer, CPAAS/UCAAS, workflow, headless architecture, and PWA technology enhancements.
-#### Varied Technology Proficiency: 
+###### Varied Technology Proficiency: 
 Throughout my projects, I've worked with diverse technologies such as Java, SpringBoot, JWT, API/REST/GraphQL, ClassicASP/ASP.NET/Ado.NET/C#/LINQ, MySQL/SQL Server, PostgreSQL, Amplify, DynamoDB, RDS, MariaDB, PHP/Laravel/Codeigniter/CakePHP/Magento2/Prestashop, Ionic/ReactNative/Java Android, SDK/ObjectiveC/Cocoa, and Angular.js/Vue.js/React.js. I've also managed telephony VOIP SIP servers including Asterisk, FreeSWItCH, Kamailio, Opensips, Vicidial, and FreePBX. Cloud hosting experience includes AWS, Azure DevOps, DigitalOcean, and GCP. I've worked with CI/CD, Kubernetes, Dockers, and version control platforms like Git/SVN/Github/Bitbucket/Gitlab.
-#### Solution-driven Approach: 
+###### Solution-driven Approach: 
 My core focus is understanding requirements and devising application intent to effectively address business challenges with the most suitable technology solutions.
-#### Collaborative Development:
+###### Collaborative Development:
 I've conducted brainstorming sessions with development teams, involving them actively during requirements analysis.
-#### Rigorous Documentation: 
+###### Rigorous Documentation: 
 I've prepared requirements management plans, business and functional requirement documents, project plans, charters, WBS/Gantt charts, and managed project management tools like JIRA, AzureADO, ZOHO, Monday, Basecamp, ASANA, Trello, and Redmine.
-#### Agile and Waterfall Expertise: 
+###### Agile and Waterfall Expertise: 
 I've adeptly managed projects using Agile (Scrum) and Waterfall methodologies, ensuring on-time delivery and exceeding customer expectations.
-#### Artifacts Management: 
+###### Artifacts Management: 
 I've meticulously documented project artifacts in adherence to best practices, ensuring timely delivery to clients.
-## Scalable Solution Design: 
+###### Scalable Solution Design: 
 My forte includes designing scalable solutions that align with application needs.
-#### Team Management: 
+###### Team Management: 
 I've successfully managed and mentored Scrum and project teams, fostering growth and capability building.
 *In summary, my rich background is underpinned by a strong commitment to project excellence, client satisfaction, and continuous improvement.*
 
-#### Academic and Professional Achievements:
+###### Academic and Professional Achievements:
 1. Completed Master of Computer Application (MCA) from IGNOU.
 2. Attained an MBA in System and Marketing from SMU.
 3. Earned an MSc in Mathematics from DSB Campus Nainital.

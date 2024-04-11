@@ -15,6 +15,7 @@ My accomplishments in this arena encompass a broad spectrum of functionalities, 
 
 ######  SMS Solutions: 
 From comprehensive SMS Broadcasting to multi-vendor systems, SMS OTP, Offer/Promotion flows, SMS payment solutions, and seamless WhatsApp integrations, I bring innovative solutions to the table.
+[![SMS-BROADCAST-SOFTWARE](https://img.https://www.youtube.com/watch?v=NWt5MTftfWU/0.jpg)](https://www.youtube.com/watch?v=NWt5MTftfWU)
 
 ######  Magento Development:
 My e-commerce expertise revolves around Magento-based solutions, including Multi-Vendor, Subscription-based, and Commission-based systems. I also specialize in crafting Progressive Web Apps (PWAs) and integrating them seamlessly with Order Management Systems (OMS).

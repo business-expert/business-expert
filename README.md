@@ -25,7 +25,9 @@ Proficient in developing state-of-the-art Progressive Web Apps, I boast expertis
 
 ######  Laravel Development:
 My skills extend to developing robust admin panels, API/Web services using Laravel/Lumen, crafting enterprise apps, and creating e-learning platforms that push boundaries.
-Web Scraping and Data Mining: I possess adeptness in developing scripts for data scraping, comparison engines, data quality testing, product data mining, and optimizing proxy servers for efficient operations.
+
+###### Web Scraping and Data Mining: 
+I possess adeptness in developing scripts for data scraping, comparison engines, data quality testing, product data mining, and optimizing proxy servers for efficient operations.
 
 ######  A Glimpse Into My Skill Set:
 Languages:</br>  
@@ -35,7 +37,7 @@ Apache, Nginx, Heroku, GCP, Node.js, AWS, Ubuntu, Centos, Fedora</br>
 Markups: </br> 
 XHTML, HTML4, Markdown Client-Side: JS, HTML5, CSS3, Bootstrap, Twitter Bootstrap Frameworks: Ruby-on-Rails, Codeigniter, CakePhp, Yii, Symfony, Laravel, MEAN, MERN
 </br> Libraries:</br> 
-Vue.js, React.js, jQuery, TypeScript
+Vue.js, React.js, jQuery, TypeScript, ggplot, numpy, pandas, tensorflow 
 </br> Telephony: </br> 
 VOIP Auto Dialer, Predictive Dialer, Robo Dialer, IPPBX, Fax Broadcast, Voicemail, SMS broadcasting with various platforms including Twilio, Freeswitch, Asterisk, ViciDial</br> 
 

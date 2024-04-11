@@ -10,7 +10,7 @@ Furthermore, my background in telecommunications shines through in the developme
 
 My Diverse Expertise Spans Across Various Domains:
 
-###### CPAAS/UCAAS/IVR'S/FAX-Broadcasting/Voice-Broadcasting/SMS-Retail/Click-to-Call Systems and Integrated CRM Solution:
+###### CPAAS UCAAS IVR'S FAX-Broadcasting Voice-Broadcasting SMS-Retail Click-to-Call Systems and Integrated CRM Solution:
 My accomplishments in this arena encompass a broad spectrum of functionalities, including DID purchasing, CDR visualization, Call Recording, Contact Import, IVR, Fax and Voice Broadcasting, SMS Broadcasting, IP PBX, SoftSwitch systems, Contact and Call Center development, and Auto/Predictive/Robo Dialers for diverse industries. I also excel in CRM development for lead tracking and seamless WebRTC integration.
 
 ######  SMS Solutions: 

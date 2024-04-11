@@ -40,5 +40,5 @@ XHTML, HTML4, Markdown Client-Side: JS, HTML5, CSS3, Bootstrap, Twitter Bootstra
 Vue.js, React.js, jQuery, TypeScript, ggplot, numpy, pandas, tensorflow 
 </br> Telephony: </br> 
 VOIP Auto Dialer, Predictive Dialer, Robo Dialer, IPPBX, Fax Broadcast, Voicemail, SMS broadcasting with various platforms including Twilio, Freeswitch, Asterisk, ViciDial</br> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=business-experta&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=business-expert)
 ######  Feel free to inquire about any specific area of interest, and I'm here to provide further insights into how my adaptable expertise can elevate your projects to new heights.

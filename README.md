@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=business-expert)
 
-![Discord](https://img.shields.io/discord/:1227823601873453133)
+![Discord](https://img.shields.io/discord/:1227823601873453130
 
 
 

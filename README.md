@@ -13,7 +13,7 @@ My Diverse Expertise Spans Across Various Domains:
 ###### CPAAS UCAAS IVR'S FAX-Broadcasting Voice-Broadcasting SMS-Retail Click-to-Call Systems and Integrated CRM Solution:
 My accomplishments in this arena encompass a broad spectrum of functionalities, including DID purchasing, CDR visualization, Call Recording, Contact Import, IVR, Fax and Voice Broadcasting, SMS Broadcasting, IP PBX, SoftSwitch systems, Contact and Call Center development, and Auto/Predictive/Robo Dialers for diverse industries. I also excel in CRM development for lead tracking and seamless WebRTC integration.
 
-[![Cloud FAX BroadCasting Software](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%af4dR404Qfc)](https://www.youtube.com/watch?v=af4dR404Qfc)
+[![Cloud FAX BroadCasting Software](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNWt5MTftfWU)](https://www.youtube.com/watch?v=af4dR404Qfc)
 
 
 ######  SMS Solutions: 

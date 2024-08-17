@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=business-expert)
 
 Creating Innovative Solutions with a Proven Track Record With a robust history of 81 successful contracts and a consistent stream of 5-star ratings over [ Upwork ](https://www.upwork.com/freelancers/~010a1bf1b58f492cd6/) . I bring a versatile and impressive skill set to the forefront. My proficiency spans a wide spectrum of solution development across diverse domains.
-[ My Potfolio ] (https://www.youtube.com/playlist?list=PLWH86ToCKUVPWm_iOdlxSXtmbQzeHjfbi)
+[ My Potfolio ](https://www.youtube.com/playlist?list=PLWH86ToCKUVPWm_iOdlxSXtmbQzeHjfbi)
 
 I have a strong record of creating exceptional Web and Mobile Apps, APIs, Progressive Web Apps (PWAs), Ecommerce platforms, and Product Information Management (PIM) systems. My expertise extends to intricate setups such as Multivendor Ecommerce platforms, Order Management Systems (OMS), and Contact Centers.
 

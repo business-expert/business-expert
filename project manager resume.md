@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:your@email.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork)](https://www.upwork.com/freelancers/~010a1bf1b58f492cd6)
 
-## 🔍 **SEO-Optimized Professional Summary**
+## 🔍 **Professional Summary**
 **18+ Years Tech Leader** Specializing in:  
 ✅ Enterprise CPaaS/UcaaS Solutions (IVR/Predictive Dialer/Voice Broadcasting)  
 ✅ Cloud-Native E-Commerce Ecosystems (Magento/PWA/OMS Integration)  

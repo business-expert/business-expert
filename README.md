@@ -26,13 +26,13 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <strong>IVR System</strong><br>
+      <strong>Multi Tenant Contact Center</strong><br>
       <a href="https://youtu.be/zbeFOmMcYWo">
         <img src="https://img.youtube.com/vi/zbeFOmMcYWo/0.jpg" width="200">
       </a>
     </td>
     <td align="center" width="33%">
-      <strong>E-commerce PWA</strong><br>
+      <strong>CRM With Twilio Call</strong><br>
       <a href="https://youtu.be/jLQdkRz41gs">
         <img src="https://img.youtube.com/vi/jLQdkRz41gs/0.jpg" width="200">
       </a>
@@ -42,19 +42,19 @@
   <!-- Second Row -->
   <tr>
     <td align="center">
-      <strong>Cloud Comms</strong><br>
+      <strong>IPPBX System</strong><br>
       <a href="https://youtu.be/gsEZ1vr_6HA">
         <img src="https://img.youtube.com/vi/gsEZ1vr_6HA/0.jpg" width="200">
       </a>
     </td>
     <td align="center">
-      <strong>Telemedicine Solution</strong><br>
+      <strong>Old Care Solution</strong><br>
       <a href="https://youtu.be/e-7qOslxjNE">
         <img src="https://img.youtube.com/vi/e-7qOslxjNE/0.jpg" width="200">
       </a>
     </td>
     <td align="center">
-      <strong>AI Dialer System</strong><br>
+      <strong>AI Club Member Management</strong><br>
       <a href="https://youtu.be/jBu1SaZDn4o">
         <img src="https://img.youtube.com/vi/jBu1SaZDn4o/0.jpg" width="200">
       </a>

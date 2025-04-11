@@ -20,12 +20,11 @@
 |-----------------------------|----------------------------|
 [![FAX System Demo](https://img.youtube.com/vi/NWt5MTftfWU/0.jpg)](https://youtu.be/NWt5MTftfWU) | [![SMS Platform Demo](https://img.youtube.com/vi/NWt5MTftfWU/0.jpg)](https://youtu.be/NWt5MTftfWU)
 
-### E-commerce Innovations
-```diff
-+ Magento Multi-Vendor Marketplaces
-+ Subscription-Based Commerce Systems
-+ PWA-OMS Integrated Solutions
-+ AI-Powered Product Recommendation Engines
+## 🛍️ E-commerce Innovations
+- Magento Multi-Vendor Marketplaces
+- Subscription-Based Commerce Systems
+- PWA-OMS Integrated Solutions
+- AI-Powered Product Recommendation Engines
 
 ## 🔧 Technical Stack
 
@@ -60,8 +59,8 @@
 ## 📬 Let's Collaborate!
 Ready to transform your business with cutting-edge technology solutions?  
 
-[![Email](https://img.shields.io/badge/Contact_Me-Email-blue?logo=gmail)](mailto:pankaj.weby@email.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/software-projectmanager/)
-[![Calendly](https://img.shields.io/badge/Schedule_Meeting-Calendly-blue)](https://calendly.com/pankaj-weby/)
+[![Email](https://img.shields.io/badge/Contact_Me-Email-blue?logo=gmail)](mailto:pankaj.weby@email.com)  
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/software-projectmanager/)  
+[![Calendly](https://img.shields.io/badge/Schedule_Meeting-Calendly-blue)](https://calendly.com/pankaj-weby/)  
 
 **Keywords**: Full Stack Developer, CPaaS Developer, Magento Expert, Telecom Solutions Architect, SaaS Development, IVR Systems, Predictive Dialer Development, PWA Development, API Integration, Cloud Solutions Architect, Enterprise Software Development

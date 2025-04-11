@@ -14,39 +14,57 @@
 - ✅ Data Engineering & Web Scraping Solutions
 
 ## 🏆 Featured Projects
-
-## 🚀 Project Portfolio
+## 🎥 Project Portfolio
 
 <table>
+  <!-- First Row -->
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <strong>CPaaS Platform</strong><br>
       <a href="https://youtu.be/vURwoxzy8G4">
         <img src="https://img.youtube.com/vi/vURwoxzy8G4/0.jpg" width="200">
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <strong>IVR System</strong><br>
       <a href="https://youtu.be/zbeFOmMcYWo">
         <img src="https://img.youtube.com/vi/zbeFOmMcYWo/0.jpg" width="200">
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <strong>E-commerce PWA</strong><br>
       <a href="https://youtu.be/jLQdkRz41gs">
         <img src="https://img.youtube.com/vi/jLQdkRz41gs/0.jpg" width="200">
       </a>
     </td>
   </tr>
+  
+  <!-- Second Row -->
   <tr>
-    <td align="center" colspan="3">
-      <strong>Cloud Communication Platform</strong><br>
+    <td align="center">
+      <strong>Cloud Comms</strong><br>
       <a href="https://youtu.be/gsEZ1vr_6HA">
         <img src="https://img.youtube.com/vi/gsEZ1vr_6HA/0.jpg" width="200">
       </a>
     </td>
+    <td align="center">
+      <strong>Telemedicine Solution</strong><br>
+      <a href="https://youtu.be/e-7qOslxjNE">
+        <img src="https://img.youtube.com/vi/e-7qOslxjNE/0.jpg" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <strong>AI Dialer System</strong><br>
+      <a href="https://youtu.be/jBu1SaZDn4o">
+        <img src="https://img.youtube.com/vi/jBu1SaZDn4o/0.jpg" width="200">
+      </a>
+    </td>
   </tr>
 </table>
+
+<br> <!-- Spacing between table and text -->
+
+**Technologies Used:** `Asterisk` `React` `AWS` `Twilio` `Spring Boot` `AI/ML`
 
 ### Cloud Communication Solutions
 | **FAX Broadcasting System** | **SMS Marketing Platform** |

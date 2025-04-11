@@ -60,8 +60,8 @@
 |---------------|-------------|------|
 | ![Google](https://img.shields.io/badge/Google-Project_Management-4285F4?logo=google) | Google Career Certificates | 2022 |
 | ![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazon-aws) | AWS Certified Solutions Architect | 2021 |
-| MBA (Systems) | SMU | 2015 |
-| MCA | IGNOU | 2012 |
+| MBA (Systems) | SMU | 2007 |
+| MCA | IGNOU | 2006 |
 
 ## 🏅 **Key Projects**
 
@@ -83,7 +83,7 @@
 - **Functionality:** Multi-property Management • Staff Tracking • Analytics
 </details>
 
-## 📈 **GitHub-Optimized Keywords**
+## 📈 **Keywords**
 `Telecom Solutions` `CPaaS Development` `IVR Systems` `Predictive Dialer` `Magento PWA` `Agile Project Management` `AWS Architecture` `Kubernetes` `SpringBoot` `React Native` `AI Chatbots` `Enterprise SaaS`
 
 ---

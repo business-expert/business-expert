@@ -112,7 +112,7 @@
 
 ---
 
-# 🔍 SEO-Optimized Keywords
+# 🔍 Keywords
 **Technical Leadership**: Project Management • CPaaS Architecture • IVR Systems • Predictive Dialers  
 **E-commerce**: Magento PWA • Headless Commerce • OMS Integration • SAP/PIM  
 **Cloud Infrastructure**: AWS • Azure DevOps • Kubernetes • Microservices  

@@ -20,6 +20,20 @@
 |-----------------------------|----------------------------|
 [![FAX System Demo](https://img.youtube.com/vi/NWt5MTftfWU/0.jpg)](https://youtu.be/NWt5MTftfWU) | [![SMS Platform Demo](https://img.youtube.com/vi/NWt5MTftfWU/0.jpg)](https://youtu.be/NWt5MTftfWU)
 
+## 🎥 Featured Projects
+
+### CPaaS Solutions Demo
+[![CPaaS Platform](https://img.youtube.com/vi/vURwoxzy8G4/0.jpg)](https://www.youtube.com/watch?v=vURwoxzy8G4)
+
+### Telecom IVR System
+[![IVR System Demo](https://img.youtube.com/vi/zbeFOmMcYWo/0.jpg)](https://www.youtube.com/watch?v=zbeFOmMcYWo)
+
+### E-commerce PWA Implementation
+[![PWA Demo](https://img.youtube.com/vi/jLQdkRz41gs/0.jpg)](https://www.youtube.com/watch?v=jLQdkRz41gs)
+
+### Cloud Communication Platform
+[![Cloud Comms Demo](https://img.youtube.com/vi/gsEZ1vr_6HA/0.jpg)](https://www.youtube.com/watch?v=gsEZ1vr_6HA)
+
 ## 🛍️ E-commerce Innovations
 - Magento Multi-Vendor Marketplaces
 - Subscription-Based Commerce Systems

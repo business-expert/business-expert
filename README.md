@@ -46,22 +46,22 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)
 
 ## 📈 Key Metrics
-**18+ Years** in Full Stack Development
-**200+** Deployed Production Systems
-**98%** Client Retention Rate
-**5/5** Average Platform Ratings
+- **18+ Years** in Full Stack Development  
+- **200+** Deployed Production Systems  
+- **98%** Client Retention Rate  
+- **5/5** Average Platform Ratings  
 
 ## 🔍 Expertise
-**Telecom Solutions**: CPaaS, IVR Systems, Predictive Dialers, SIP Trunking
-**E-commerce**: Magento PWA Development, Multi-Vendor Marketplaces, OMS Integration
-**Cloud Architecture**: Scalable Microservices, Serverless Applications, Kubernetes Clusters
-**Data Engineering**: Web Scraping, ETL Pipelines, Big Data Analytics
+- **Telecom Solutions**: CPaaS, IVR Systems, Predictive Dialers, SIP Trunking  
+- **E-commerce**: Magento PWA Development, Multi-Vendor Marketplaces, OMS Integration  
+- **Cloud Architecture**: Scalable Microservices, Serverless Applications, Kubernetes Clusters  
+- **Data Engineering**: Web Scraping, ETL Pipelines, Big Data Analytics  
 
 ## 📬 Let's Collaborate!
 Ready to transform your business with cutting-edge technology solutions?  
-[![Email](https://img.shields.io/badge/Contact_Me-Email-blue?logo=gmail)] (mailto:pankaj.weby@email.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)] (https://linkedin.com/in/software-projectmanager/)
-[![Calendly](https://img.shields.io/badge/Schedule_Meeting-Calendly-blue) ] (https://calendly.com//pankaj-weby/)
 
-**Keywords** :
-Full Stack Developer, CPaaS Developer, Magento Expert, Telecom Solutions Architect, SaaS Development, IVR Systems, Predictive Dialer Development, PWA Development, API Integration, Cloud Solutions Architect, Enterprise Software Development
+[![Email](https://img.shields.io/badge/Contact_Me-Email-blue?logo=gmail)](mailto:pankaj.weby@email.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/software-projectmanager/)
+[![Calendly](https://img.shields.io/badge/Schedule_Meeting-Calendly-blue)](https://calendly.com/pankaj-weby/)
+
+**Keywords**: Full Stack Developer, CPaaS Developer, Magento Expert, Telecom Solutions Architect, SaaS Development, IVR Systems, Predictive Dialer Development, PWA Development, API Integration, Cloud Solutions Architect, Enterprise Software Development

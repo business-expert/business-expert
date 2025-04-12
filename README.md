@@ -3,8 +3,6 @@
 🌟 **Top-Rated Developer** with 81+ Successful Contracts | 100% 5-Star Client Satisfaction  
 [![Upwork Badge](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~010a1bf1b58f492cd6)
 [![Portfolio](https://img.shields.io/badge/Video_Portfolio-FF0000?logo=youtube)](https://www.youtube.com/playlist?list=PLWH86ToCKUVPWm_iOdlxSXtmbQzeHjfbi)
-
-
 [![Project Manager Resume](https://img.shields.io/badge/Resume-Project%20Manager-blue?style=for-the-badge)](project%20manager%20resume.md)
 [![Experience Details](https://img.shields.io/badge/Experience-Details-green?style=for-the-badge)](experience-details.md)
 

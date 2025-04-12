@@ -4,6 +4,12 @@
 [![Upwork Badge](https://img.shields.io/badge/Upwork-Profile-green?logo=upwork)](https://www.upwork.com/freelancers/~010a1bf1b58f492cd6)
 [![Portfolio](https://img.shields.io/badge/Video_Portfolio-FF0000?logo=youtube)](https://www.youtube.com/playlist?list=PLWH86ToCKUVPWm_iOdlxSXtmbQzeHjfbi)
 
+
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](project manager resume.md)
+[![Specialization](https://img.shields.io/badge/Specialization-Read-green?style=for-the-badge)](experience-details.md)
+[![Showcase](https://img.shields.io/badge/Showcase-Open-orange?style=for-the-badge)](showcase.md)
+
+
 ## 🚀 Core Competencies
 **Specializing in Enterprise-Grade Communication & E-commerce Solutions**
 - ✅ CPaaS/UcaaS Development (Voice/SMS/FAX Broadcasting, IVR, Predictive Dialers)

@@ -5,9 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Video_Portfolio-FF0000?logo=youtube)](https://www.youtube.com/playlist?list=PLWH86ToCKUVPWm_iOdlxSXtmbQzeHjfbi)
 
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](project manager resume.md)
-[![Specialization](https://img.shields.io/badge/Specialization-Read-green?style=for-the-badge)](experience-details.md)
-[![Showcase](https://img.shields.io/badge/Showcase-Open-orange?style=for-the-badge)](showcase.md)
+[![Project Manager Resume](https://img.shields.io/badge/Resume-Project%20Manager-blue?style=for-the-badge)](project%20manager%20resume.md)
+[![Experience Details](https://img.shields.io/badge/Experience-Details-green?style=for-the-badge)](experience-details.md)
 
 
 ## 🚀 Core Competencies
